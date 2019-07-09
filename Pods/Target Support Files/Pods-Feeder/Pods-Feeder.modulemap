@@ -1,0 +1,6 @@
+framework module Pods_Feeder {
+  umbrella header "Pods-Feeder-umbrella.h"
+
+  export *
+  module * { export * }
+}

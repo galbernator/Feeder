@@ -1,0 +1,54 @@
+{
+  "articles" : [
+    {
+      "id" : 1200,
+      "title" : "McDonald's Spent $300 Million On Its Own Version of the Non-Chronological Feed",
+      "created_at" : "2019-03-28T16:32:00Z",
+      "source" : "Gizmodo",
+      "description" : "If you’ve ever walked into McDonald’s and thought you’d like a side of tech with your Big Mac, don’t worry—the fast food chain as you covered.",
+      "favorite" : false,
+      "hero_image" : "https://i.kinja-img.com/gawker-media/image/upload/s--swRlLlgJ--/c_scale,dpr_2.0,f_auto,fl_progressive,q_80,w_800/egad24b4d3w3qizatlba.jpg",
+      "link" : "https://gizmodo.com/mcdonalds-spent-300-million-on-its-own-version-of-the-1833634853"
+    },
+    {
+      "id" : 1201,
+      "title" : "Craters on Pluto suggest Kuiper Belt ate its smaller bodies",
+      "created_at" : "2019-03-02T14:15:00Z",
+      "source" : "Ars Technica",
+      "description" : "Both Pluto and Charon have a dearth of craters made by small objects.",
+      "favorite" : false,
+      "hero_image" : "https://cdn.arstechnica.net/wp-content/uploads/2019/02/singer2HR-800x480.jpg",
+      "link" : "https://arstechnica.com/science/2019/03/craters-on-pluto-suggest-kuiper-belt-ate-its-smaller-bodies/"
+    },
+    {
+      "id" : 1202,
+      "title" : "Qu-Bit Electronix Releases Prism for ‘Spectral Metamorphosis’",
+      "created_at" : "2019-03-12T23:20:00Z",
+      "source" : "Synthtopia",
+      "description" : "This morning, Qu-Bit Electronix released their new Prism module.",
+      "favorite" : true,
+      "hero_image" : "https://i2.wp.com/www.synthtopia.com/wp-content/uploads/2019/03/QuBit-Prism-closeup.jpeg?resize=708%2C300",
+      "link" : "https://www.synthtopia.com/content/2019/03/14/qu-bit-electronix-releases-prism-for-spectral-metamorphosis/"
+    },
+    {
+      "id" : 1203,
+      "title" : "Everyone Should Read Customer Support Emails",
+      "created_at" : "2019-03-04T12:00:00Z",
+      "source" : "Medium",
+      "description" : "A company can learn more from people sharing their experiences than from numbers in a spreadsheet",
+      "favorite" : false,
+      "hero_image" : "https://cdn-images-1.medium.com/max/1200/1*B-6U0rpniq0HWs9KQIXbSg.jpeg",
+      "link" : "https://medium.com/s/please-advise/why-everyone-should-read-support-emails-42ca2172e23e"
+    },
+    {
+      "id" : 1204,
+      "title" : "Federal Appeals Court Blocks San Francisco Law On Ad Warnings For Sugary Drinks",
+      "created_at" : "2019-01-31T8:30:00Z",
+      "source" : "NPR",
+      "description" : "A voter-approved law requiring large warnings about the effects of soda and other sugar-sweetened drinks was challenged by the beverage industry.",
+      "favorite" : true,
+      "hero_image" : "https://media.npr.org/assets/img/2019/01/31/gettyimages-987348078_wide-ebdf36860dc41366f67f12b365e8ef54a4273bab-s700-c85.jpg",
+      "link" : "https://www.npr.org/2019/01/31/690541166/federal-appeals-court-blocks-san-francisco-law-on-ad-warnings-for-sugary-drinks"
+    }
+  ]
+}
