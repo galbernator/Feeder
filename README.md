@@ -1,4 +1,4 @@
-## Feeder - simple news feed app
+# Feeder - simple news feed app
 
 Feeder was a take-home interview project designed to test code craftsmanship, playful UI/UX design and maintainability of the code.
 
@@ -16,7 +16,7 @@ Create an app that meets the following criteria:
 * Making web calls
 * Only using native frameworks (use whatever gets the job done)
 
-## Building
+# Building
 The app uses CocoaPods to manage dependencies, so be sure and complete the following steps to build and run the app.
 
 ##### 1. Clone the Repo Locally
